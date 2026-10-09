@@ -65,6 +65,7 @@ const Loading = () => {
         </div>
       </div>
     </main>
+
   );
 };
 
