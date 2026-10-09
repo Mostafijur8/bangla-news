@@ -51,10 +51,12 @@ const Loading = () => {
                 <div className="mt-5 h-3 w-2/3 rounded bg-gray-200" />
               </div>
             </article>
+
+            
           ))}
         </section>
 
-        
+
 
         {/* Loading Indicator */}
         <div className="flex flex-col items-center justify-center py-12">
